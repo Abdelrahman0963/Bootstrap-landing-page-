@@ -8,16 +8,11 @@
   font-weight: 700;
 }
 .box {
-  height: 30vh;
+  height: 40vh;
 }
 .box-mine {
   width: 100px;
   height: 60px;
   background: rgb(198, 196, 196);
   transform: translateY(10px);
-}
-@media (max-width: 992px) {
-  .user-icon {
-    display: none;
-  }
 }
